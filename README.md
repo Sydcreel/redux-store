@@ -10,7 +10,7 @@
 * Shop Shop is a mock e-commerce site where users can create accounts and make purchases. Built with React, Redux and Apollo GraphQL.
 
 ## Usage
-
+* https://sydcreel-redux-store.herokuapp.com/
 
 ## Contribution
 * https://www.contributor-covenant.org/
