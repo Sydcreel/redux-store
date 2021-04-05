@@ -9,7 +9,7 @@
     "seed": "node config/seeds.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sydney Creel",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^2.21.1",
